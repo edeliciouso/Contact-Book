@@ -82,7 +82,7 @@ public class ContactBooks {
                     break;
                 case "Q":
                     System.out.println("Thank you for using the contact book.");
-                    quit = true;
+                    quit = true; // quits the program
                     break;
                 default:
                     System.out.println("Unknown entry");
